@@ -1,0 +1,37 @@
+body {
+    color: #272B2D;
+}
+
+.modalHeader {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.profileImage {
+    height: 2rem;
+    width: 2rem;
+    border-radius: 50%;
+}
+
+.userNameModal {
+    color: #272B2D;
+    vertical-align: top;
+    margin-left: 0.5rem;
+}
+
+.closeButton {
+    background-color: #9D0021;
+    color: beige;
+    padding-top: 0.2rem;
+    padding-bottom: 0.2rem;
+    padding-left: 0.3rem;
+    padding-right: 0.3rem;
+    border-radius: 0.2rem;
+}
+
+.carImage {
+    width: 100%;
+    height: 100%;
+    border-radius: 0.5rem;
+}

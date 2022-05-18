@@ -1,0 +1,59 @@
+.formModalBody {
+    background-color: #272B2D;
+}
+
+.openFormButton {
+    font-size: x-large;
+    color: beige;
+    border: 1px solid #9D0021;
+    padding: 0.4rem;
+    margin-left: 2rem;
+    width: 5rem;
+    background-color: #9D0021;
+    border-radius: 0.2rem;
+    margin-bottom: 1rem;
+}
+
+.modalFormHeader {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.formHeader {
+    display: block;
+}
+
+
+.validationAlert {
+    color: #9D0021;
+    font-weight: bold;
+    border: 1px solid #9D0021;
+    padding: 0.2rem;
+    border-radius: 0.2rem;
+}
+
+.closeButtonForm {
+    background-color: #9D0021;
+    color: beige;
+    padding-top: 0.2rem;
+    padding-bottom: 0.2rem;
+    padding-left: 0.3rem;
+    padding-right: 0.3rem;
+    border-radius: 0.2rem;
+}
+
+.rangeDisplay {
+    font-size: medium;
+}
+
+.formBottom {
+    display: block;
+}
+
+.submitFormButtom {
+    margin-top: 0.2rem;
+    background-color: #9D0021;
+    color: beige;
+    border-radius: 0.2rem;
+}
