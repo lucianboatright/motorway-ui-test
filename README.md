@@ -12,3 +12,5 @@ Blow I have listed some of the thoughts I had during the procces and why I have 
 - I have used Validation in many apps but for this prject and with the time I just checked that the user has used all inputs however I understad how to check with regex if that have used @ in emails and cuirtain caracters in the password.
 - Mesuring time is something newer for me so I had to resarch this and implament somthing simple. This is an area I would be want to learn more about as it is very important to making the site run smoothly.
 - Having come back from Typescript I had to check a few things as I went however these were not an issue just a reminder on syntax.
+
+![workingout](src/images/readme/workingOut.png)
